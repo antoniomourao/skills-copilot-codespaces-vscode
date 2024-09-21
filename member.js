@@ -1,3 +1,3 @@
 function SkillMember() {
-    this.name = "SkillMember";
+    return "SkillMember";
 }
